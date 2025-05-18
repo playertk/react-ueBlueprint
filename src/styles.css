@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  --ueb-height: 100vh;
+}
